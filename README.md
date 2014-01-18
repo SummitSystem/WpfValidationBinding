@@ -1,4 +1,4 @@
 WpfValidationBinding
 ====================
 
-XAMLwo
+XAMLを使って、ValidationRuleに対してデータバインディングをするサンプル。
